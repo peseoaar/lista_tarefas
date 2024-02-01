@@ -1,0 +1,4 @@
+id | prioridade | tarefa  
+ 2;       2        teste
+ 3;       2        Comprar banana
+ 4;       2        comprar abacate
